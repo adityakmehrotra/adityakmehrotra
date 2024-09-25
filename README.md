@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityakmehrotra
-- 🔭
+- 🔭 I'm currently working on an equities trading simulation platform that helps people practice trading with real-time data
 - 👀 I’m interested in applying Machine Learning to real-world applications
 - 🌱 I’m currently learning the ins and outs of Web Development
 - 🤝 I'm looking to collaborate on open-source AI or software engineering projects that focus on scalability and performance optimization
