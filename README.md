@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @adityakmehrotra
-- 🔭 I'm currently working on an equities trading simulation platform that helps people practice trading with real-time data
-- 🤝 I'm looking to collaborate on open-source AI or software engineering projects that focus on scalability and performance optimization
-- 🌱 I’m currently learning advanced machine learning frameworks and real-time data processing to enhance my AI development skills
-- 📫 How to reach me: My email, adi1.mehrotra@gmail.com  
+- 👋 Hi, I’m @adityakmehrotra  
+- 🔭 I'm currently researching how to optimize and accelerate OLAP transactions on databases using GPUs  
+- 🤝 I'm looking to collaborate on open-source AI or software engineering projects that focus on scalability and performance optimization  
+- 🌱 I’m currently learning advanced machine learning frameworks and real-time data processing to enhance my AI development skills  
+- 📫 How to reach me: adi1.mehrotra@gmail.com or Connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-mehrotra-)
+- 🌐 Check out my website: [adityamehrotra.com](https://adityamehrotra.com)  
 
 <!---
 adityakmehrotra/adityakmehrotra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
